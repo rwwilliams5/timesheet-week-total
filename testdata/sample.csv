@@ -1,0 +1,8 @@
+date,project,hours,note
+2026-09-07,acme-website,3.5,homepage redesign
+2026-09-07,acme-website,1.0,bugfix triage
+2026-09-08,internal-tools,4.0,timesheet cli prototype
+2026-09-08,acme-website,2.0,client call
+2026-09-09,internal-tools,6.5,report formatting
+2026-09-10,acme-website,8.0,launch prep
+2026-09-11,internal-tools,3.0,code review
